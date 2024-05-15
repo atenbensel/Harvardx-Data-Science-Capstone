@@ -11,9 +11,9 @@ The approach hinges on the utilization of a KNN prediction model. This model wor
 By leveraging the Biomechanical Features of Orthopedic Patients dataset, [which can be found here](https://www.kaggle.com/datasets/uciml/biomechanical-features-of-orthopedic-patients?resource=download&select=column_2C_weka.csv). The data, originally in CSV format, is processed using R programming language. We employ various data preprocessing techniques, including data cleaning, normalization, and feature engineering, to ensure the dataset is suitable for training our KNN model.
 
 ### Repository Contents
-**data_processing.R**: This script contains the R code for processing the dataset.
-**knn_model.R**: Here, you'll find the implementation of our KNN prediction model.
-**README.md**: You're currently reading it! This file provides an overview of the project, including instructions on how to use the repository.
+**data_processing.R**: This script contains the R code for processing the dataset. <br>
+**knn_model.R**: Here, you'll find the implementation of our KNN prediction model. <br>
+**README.md**: You're currently reading it! This file provides an overview of the project, including instructions on how to use the repository.<br>
 
 ### Usage
 To replicate the analysis:
