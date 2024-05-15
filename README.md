@@ -1,5 +1,7 @@
 # Harvardx Data Science Capstone
 
+[Read the full report here](https://harvardx-capstone-project.gitbook.io/biomechanical-features-of-orthopedic-patients/)
+
 ## Orthopedic Patient Data Analysis
 ### Overview
 Welcome to my Orthopedic Patient Data Analysis repository for the Harvardx Data Science Capstone! Here, I delve into the realm of orthopedic healthcare, specifically focusing on analyzing data related to the bones of orthopedic patients. The primary objective is to develop a KNN (K-Nearest Neighbors) prediction model capable of distinguishing between abnormal and normal cases based on specific bone metrics.
