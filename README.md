@@ -1,6 +1,6 @@
 # Harvardx Data Science Capstone
 
-[Read the full report here](https://harvardx-capstone-project.gitbook.io/biomechanical-features-of-orthopedic-patients/)
+## [Read the full report here](https://harvardx-capstone-project.gitbook.io/biomechanical-features-of-orthopedic-patients/)
 
 ## Orthopedic Patient Data Analysis
 ### Overview
